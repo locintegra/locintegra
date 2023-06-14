@@ -1,4 +1,0 @@
-LOCINTEGRA-PC\SQLEXPRESS
-controledeestoque
-sa
-p@ssword
